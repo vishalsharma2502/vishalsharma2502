@@ -1,8 +1,8 @@
 Hello World 👋🌎!
 
-I'm Vishal Sharma 😀 and currently working with Neustar as Associate Software Engineer 👨‍💻 .The best part about me is that I am eager to learn.
+I'm Vishal Sharma 😀 and currently working with SIXT R&D India as Software Developer Engineer II 👨‍💻 .The best part about me is that I am eager to learn.
 Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.
-I have experiences in programming languages like C++, Java and Spring . I'm a full stack Java developer.In some parallel world I'm a travelle ..❤ tea ☕ .
+I have experiences in programming languages like C++, Java, Python and Spring . I'm a full stack Java developer.In some parallel world I'm a traveller ..❤ tea ☕ .
 
 Learning ✨🤓
 
